@@ -54,3 +54,5 @@ In this code:
 5. We remove the last element from `my_list` using the `pop` method.
 6. We sort `my_list` in ascending order using the `sort` method.
 7. Finally, we find and print the index of the value 30 in `my_list` using the `index` method.
+
+done 
